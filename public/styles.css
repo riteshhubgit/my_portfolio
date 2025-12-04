@@ -1,0 +1,7 @@
+*{box-sizing:border-box;margin:0;padding:0;font-family:system-ui,Arial;}
+body{padding:2rem;background:#f7f7f8;color:#111;}
+header{margin-bottom:1.5rem;}
+h1{font-size:1.8rem;}
+section{margin-top:1rem;}
+footer{margin-top:2rem;font-size:0.9rem;color:#555;}
+
